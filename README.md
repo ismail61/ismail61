@@ -14,9 +14,9 @@
 - 📄 Know about my experiences [RESUME](https://t.ly/yblg)
 
 <h3 align="left">GitHub Analytics:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail61&show_icons=true&locale=en&theme=radical" alt="ismail61" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail61&show_icons=true&locale=en&theme=radical" alt="ismail61" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismail61&show_icons=true&locale=en&theme=radical" alt="ismail61" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismail61&theme=radical" alt="ismail61" /></p>
 
