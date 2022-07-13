@@ -3,11 +3,11 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🔭 I’m currently working on [HungryNaki Backend](https://t.ly/GATn)
+- 🔭 I’m currently working on [BS Commerce](https://github.com/BrainStation-23/BS-Commerce)
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://t.ly/Q9De)
 - 🤝 I'm currently studying Software Engineering at the Shahjalal University of Science and Technology(SUST).
-- 🔭 Currently I am working on BS23( [Brain Station 23 Ltd](https://brainstation-23.com/?ba) ) as a software engineer intern.
+- 🔭 Currently I am working on BS23( [Brain Station 23 Ltd](https://brainstation-23.com/?ba) ) as a Junior software engineer.
 
 - 📫 How to reach me **ismailhosen601@gmail.com**
 
