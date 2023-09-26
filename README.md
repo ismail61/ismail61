@@ -3,15 +3,13 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 🔭 I’m currently working on [BS Commerce](https://github.com/BrainStation-23/BS-Commerce)
-
 - 👨‍💻 All of my projects are available at [PortFolio](https://t.ly/Q9De)
-- 🤝 I'm currently studying Software Engineering at the Shahjalal University of Science and Technology(SUST).
-- 🔭 Currently I am working on BS23( [Brain Station 23 Ltd](https://brainstation-23.com/?ba) ) as a Junior software engineer.
+- 🤝 I have completed my BSc degree in Software Engineering at the Shahjalal University of Science and Technology (SUST).
+- 🔭 Currently I am working on BS23( [Brain Station 23 Ltd](https://brainstation-23.com/?ba) ) as a software engineer.
 
 - 📫 How to reach me **ismailhosen601@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://t.ly/yblg)
+- 📄 Know about my experiences [RESUME](https://t.ly/5GUTq)
 
 <h3 align="left">GitHub Analytics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail61&show_icons=true&locale=en&theme=radical" alt="ismail61" /></p>
