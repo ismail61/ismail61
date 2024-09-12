@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Md Ismail Hosen</h1>
+<h1 align="center">Hello 👋, I'm Md Ismail</h1>
 <h3 align="center">A Full Stack MERN Developer</h3>
 
 <h3 align="left">👨‍💻 About Me:</h3>
@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [PortFolio](https://t.ly/Q9De)
 - 🤝 I have completed my BSc degree in Software Engineering at the Shahjalal University of Science and Technology (SUST).
 
-- 📫 How to reach me **ismailhosen601@gmail.com**
+- 📫 How to reach me **ismailhosen1061@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://t.ly/5GUTq)
 
